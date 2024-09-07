@@ -1,2 +1,2 @@
 # MedManagement
-Simple MedManagement App Based on Flask and SQLite3
+Simple MedManagement App Based on StreamLit and SQLite3
